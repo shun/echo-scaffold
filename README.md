@@ -3,6 +3,10 @@
 `Echo Scaffold` is CLI to generate scaffolds for the `echo` framework.
 For now the project only supports `mongodb` and `mgo` as database.
 
+## Requirements
+
+    * `hg` command
+
 ## Installation
 
 	go get github.com/mattn/echo-scaffold
